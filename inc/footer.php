@@ -5,5 +5,6 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script> -->
 
 </body>
+<div class="card-footer bg-dark border-success fixed-bottom text-white">Footer</div>
 
 </html>
